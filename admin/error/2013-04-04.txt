@@ -1,0 +1,30 @@
+错误SQL语句：
+UPDATE  `art_newsclass` SET  `name` =  '123' WHERE  `art_newsclass`.`id` =
+客户IP:127.0.0.1
+时间 :2013-04-04 06:08:07
+
+错误SQL语句：
+SELECT * FROM p_newsclass
+客户IP:127.0.0.1
+时间 :2013-04-04 08:22:18
+
+错误SQL语句：
+SELECT * FROM p_newsbase limit  0, 20
+客户IP:127.0.0.1
+时间 :2013-04-04 08:22:18
+
+错误SQL语句：
+SELECT * FROM p_newsclass
+客户IP:127.0.0.1
+时间 :2013-04-04 08:22:51
+
+错误SQL语句：
+SELECT * FROM p_newsbase limit  0, 20
+客户IP:127.0.0.1
+时间 :2013-04-04 08:22:51
+
+错误SQL语句：
+SELECT * FROM p_newsclass
+客户IP:127.0.0.1
+时间 :2013-04-04 08:23:18
+
